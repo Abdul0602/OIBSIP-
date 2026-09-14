@@ -19,16 +19,8 @@ A beginner-friendly command-line password generator that creates random password
 - `random`
 - `string`
 
-## Run
-
-```bash
-python main.py
-```
 
 ## Security Note
 
 This Beginner-tier implementation uses `random` as specified by the internship task. For real security-sensitive password generation, Python's `secrets` module is more appropriate.
 
-## Screenshots
-
-Add screenshots showing the menu, generated password, and validation behavior.
