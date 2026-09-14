@@ -1,11 +1,9 @@
 # Task 2 — BMI Calculator
 
 ## Overview
-
 A command-line BMI Calculator written in Python. It accepts weight and height, calculates BMI, classifies the result, and validates user input.
 
 ## Internship Requirements Covered
-
 - Weight input in kilograms
 - Height input in meters
 - BMI calculation using `weight / height²`
@@ -14,7 +12,6 @@ A command-line BMI Calculator written in Python. It accepts weight and height, c
 - Validation for non-numeric and non-positive values
 
 ## Technologies
-
 - Python
 - `input()`
 - Functions
@@ -22,14 +19,8 @@ A command-line BMI Calculator written in Python. It accepts weight and height, c
 - Conditions
 - Exception handling
 
-## Run
-
-```bash
-python main.py
-```
 
 ## Example
-
 ```text
 ==============================
         BMI CALCULATOR
@@ -41,7 +32,3 @@ Enter your height (m): 1.75
 BMI: 22.86
 Category: Normal
 ```
-
-## Screenshots
-
-Add screenshots showing a successful calculation and validation/error handling.
